@@ -25,7 +25,7 @@ SECRET_KEY = '52$5ujr925j_8)+c4+yhwik_+vq6e13#fxi5**_$rv80pn3(sf'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['greatzkart.herokuapp.com', '127.0.0.1']
+ALLOWED_HOSTS = ['greatxkart.herokuapp.com', '127.0.0.1']
 
 
 # Application definition
